@@ -1,1 +1,1 @@
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=niklex21&count_private=true&show_icons=true&theme=radical)
+![Visitor Count](https://profile-counter.glitch.me/Niklex21/count.svg)
