@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Alex Nikanov
+# 👋 Hello-hello-hello!
 
 - I am studying Computer Science and Business at Northeastern University, focusing on the intersection of AI & social innovations.
 
